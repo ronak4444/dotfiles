@@ -2,6 +2,10 @@
 // source:
 // 1. https://github.com/donnemartin/dev-setup
 // 2. https://github.com/mathiasbynens/dotfiles
+// 3. https://gist.github.com/ijy/7399688 [for packages]
+// packages installed:
+// - gitgutter, sidebarenhancements, sublimecodeintel, docblockr,
+// - sublimeLinter, theme-Materialize
 //"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 "color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 "default_encoding": "UTF-8",
