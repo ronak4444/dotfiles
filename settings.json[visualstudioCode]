@@ -1,0 +1,45 @@
+// Visual Studio code: settings
+// by - Ronak
+{
+"workbench.colorTheme": "Solarized Dark",
+"editor.lineNumbers": "on",
+"files.encoding": "utf8",
+"files.eol": "\n",
+"editor.detectIndentation": false,
+"editor.renderWhitespace": "all",
+"files.insertFinalNewline": false,
+"files.exclude": {
+"**/.git": true,
+"**/.svn": true,
+"**/.hg": true,
+"**/CVS": true,
+"**/.DS_Store": true,
+"**/node_modules": true
+},
+"editor.fontSize": 12,
+"files.hotExit": "onExit",
+"editor.renderIndentGuides": true,
+"editor.matchBrackets": true,
+"editor.autoClosingBrackets": true,
+"editor.rulers": [80],
+"editor.tabSize": 4,
+"editor.insertSpaces": true,
+"files.trimTrailingWhitespace": true,
+"editor.wordWrap": "off",
+"window.zoomLevel": -1,
+// -------
+"editor.formatOnPaste": true,
+"search.exclude": {
+}
+"[typescript]": {},
+"[javascript]": {}
+// missing sublime options list
+// "highlight_modified_tabs": true,
+// "ignored_packages":["Vintage"],
+// "line_padding_bottom": 5,
+// "remember_open_files": true,
+// "show_encoding": true,
+// "show_line_endings": true,
+//
+
+}
