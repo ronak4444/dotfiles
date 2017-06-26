@@ -19,6 +19,7 @@
 "editor.fontSize": 12,
 "files.hotExit": "onExit",
 "editor.renderIndentGuides": true,
+"editor.minimap.enabled": false,
 "editor.matchBrackets": true,
 "editor.autoClosingBrackets": true,
 "editor.rulers": [80],
