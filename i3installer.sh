@@ -3,3 +3,4 @@ sudo dpkg -i ./keyring.deb
 sudo echo "deb http://debian.sur5r.net/i3/ $(grep '^DISTRIB_CODENAME=' /etc/lsb-release | cut -f2 -d=) universe" >> /etc/apt/sources.list.d/sur5r-i3.list
 sudo apt update
 sudo apt install i3
+echo "exec xrandr --output Virtual1 --mode 1280x800" >> ~/.config/i3/config
